@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+CHILKAT+INDIAN+VILLAGE+KLUKWAN",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+CHILKAT+INDIAN+VILLAGE+KLUKWAN",
+  "title": "Federal Register - AK CHILKAT INDIAN VILLAGE KLUKWAN",
+  "fetched_at": "2026-11-23T15:58:34.511640Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 207915,
+  "sha256": "64830d4e739dd509869287d219e281b6a0e2252386999cc476f268b542ac9763",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
